@@ -24,9 +24,11 @@ The default credentials are username `admin` and password `admin`.
 
 There is also a convenience script provided to login via `fly`:
 
-```./fly-login.sh
+```
+./fly-login.sh
 
-fly -t local pipelines```
+fly -t local pipelines
+```
 
 To tear down the setup run:
 
